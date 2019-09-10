@@ -5,4 +5,4 @@ CLI python script to pull current AQI for a zipcode from the airnow API.
 
     O3	35	Good
     PM2.5	32	Good
-    Observed in NW Coastal LA aroud 19:00 on YYYY-DD-MM
+    Observed in NW Coastal LA aroud HH:00 on YYYY-DD-MM
