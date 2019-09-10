@@ -9,7 +9,7 @@ import calendar
 import urllib, json
 import sys, getopt
 
-AIRNOWAPIKEY ="CE041308-88F7-46D1-BA47-0B60170720D2"
+AIRNOWAPIKEY =""
 
 def showaqi():
 	aqiurl ="http://www.airnowapi.org/aq/observation/zipCode/current/?format=application/json&zipCode="+zipcode+"&distance=10&API_KEY="+AIRNOWAPIKEY
